@@ -27,5 +27,5 @@
 
 
 ### Languages: ###
-English A2
+English A2,
 Polish A1
