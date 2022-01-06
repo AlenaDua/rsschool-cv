@@ -1,4 +1,5 @@
 # Alena Dubadzelava # 
+![My foto](kot_computer_22180.jpg)
 
 ### Contacts ###
 - **Location:** Poland, Krakow
